@@ -33,7 +33,7 @@ make run
 Le programme affichera l'heure actuelle en temps réel dans votre terminal, avec un effet visuel ASCII.
 ---
 ## 📜 Licence
-Ce projet est sous la licence GNU GPL.
+Ce projet est sous la licence [GNU GPL](https://www.gnu.org/licenses/).
 ---
 ## 📧 Contact
 Pour toute question, contactez-moi sur [The VLADCRACK](vladimir.emalieu@facsciences-uy1.cm).
